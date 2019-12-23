@@ -1,0 +1,46 @@
+body{
+    background: rgb(34,0,38);
+background: linear-gradient(90deg, rgba(34,0,38,1) 0%, rgba(157,0,255,1) 50%);
+display: block;
+
+
+}
+
+p{
+    color: white;
+    display: block;
+    width: 100px;
+    margin: auto;
+}
+
+/* .text{
+    color: yellow;
+    display: block;
+    margin: 100px 50px 10px 0;
+    padding: 50px;
+
+} */
+
+.text_2{
+    color: green;
+    
+}
+
+input:focus{
+    color: red;
+}
+
+#a1{
+    font-size: 40px;
+}
+
+button{
+    display: block;
+    margin: auto;
+}
+
+div{
+    display: inline-block;
+
+}
+
